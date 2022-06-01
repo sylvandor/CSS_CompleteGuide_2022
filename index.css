@@ -16,8 +16,6 @@ body {
   left: 0;
   right: 0;
 
-  height: 43px;
-
   z-index: 1;
 }
 
@@ -108,11 +106,6 @@ body {
 .main-footer__list a:hover,
 .main-footer__list a:active {
   color: #ccc;
-}
-
-.main-content {
-  position: relative;
-  top:43px;
 }
 
 .button {
