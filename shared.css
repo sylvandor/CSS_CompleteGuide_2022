@@ -30,6 +30,13 @@ body {
 
   color: #0e4f1f;
   text-decoration: none;
+
+  height: 22px;
+  display: inline-block;
+}
+
+.main-header__brand > img {
+  height: 100%;
 }
 
 .main-nav {
